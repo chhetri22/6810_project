@@ -460,6 +460,23 @@ i:before {
   border-right: 0px;
 }
 
+.box-elem {
+    width: 700px;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.box-elem-challenges {
+    width: 439px;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.container-box-elem {
+    width: 1400px;
+    margin: 0px auto;
+}
+
 /* End Slider css
 ============================================================================================ */
 /* Testimonials Slider css
@@ -2429,5 +2446,10 @@ i:before {
 /* End Footer Area css
 ============================================================================================ */
 /*---------------------------------------------------- */
+
+.images{
+    text-align:center;
+    margin:50px auto;
+}
 
 /*# sourceMappingURL=style.css.map */
