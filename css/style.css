@@ -472,6 +472,14 @@ i:before {
     margin-bottom: 20px;
 }
 
+.box-elem-center {
+    width: 439px;
+    float: center;
+    margin-bottom: 20px;
+    display: block;
+    margin: 0px auto;
+}
+
 .container-box-elem {
     width: 1400px;
     margin: 0px auto;
