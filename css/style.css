@@ -466,6 +466,14 @@ i:before {
     margin-bottom: 20px;
 }
 
+.box-elem-links {
+    width: 700px;
+    height: 550px;
+    float: left;
+    margin-bottom: 10px;
+
+}
+
 .box-elem-challenges {
     width: 439px;
     float: left;
